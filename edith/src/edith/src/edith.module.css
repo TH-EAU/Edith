@@ -1,0 +1,17 @@
+.editor div {
+  width: 50px;
+  height: 50px;
+  /* background-color: rosybrown; */
+}
+
+.paragraphModule {
+  background-color: grey;
+  min-height: 30px;
+  border-radius: 3px;
+  margin: 0;
+  z-index: 3;
+}
+
+.react-resizable-handle {
+  opacity: 0.4;
+}
