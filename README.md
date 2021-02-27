@@ -1,0 +1,2 @@
+# Edith
+Wisiwig text editor
